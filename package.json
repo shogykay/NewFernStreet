@@ -1,0 +1,19 @@
+{
+  "name": "marina",
+  "version": "1.0.0",
+  "description": "Fern street",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Fern street"
+  },
+  "keywords": [
+    "fern",
+    "street"
+  ],
+  "author": "Kehinde",
+  "license": "ISC"
+}
